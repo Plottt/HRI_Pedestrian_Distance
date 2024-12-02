@@ -1,0 +1,17 @@
+person 1: 2430 - 2478
+person 2: 600 - 675
+person 3: 1833 - 1918
+person 4: 1350 - 1420
+person 5: 1778 - 1835
+person 6: 990 - 1080
+person 7: 1350 - 1516
+person 8: 960 - 1110
+person 9: 840 - 990
+person10: 800 - 945
+person11: 800 - 915
+person12: 870 - 1050
+person13: 1140 - 1260
+person15: 810 - 900
+person16: 1410 - 1545
+person17: 960 - 1080
+person18: 1020 - 1140
