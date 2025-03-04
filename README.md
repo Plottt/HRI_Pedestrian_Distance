@@ -20,3 +20,5 @@ Result: subtle lighting and sounds can effectively cause pedestrians to keep dis
 **traj_plotter2.py**: plot trjaectories and averaged trajectories
 
 **video_framestamps.txt** : framestamps for realsense videos for when people pass
+
+For more details, contact lmplotte@alumni.cmu.edu
